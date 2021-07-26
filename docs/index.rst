@@ -1,20 +1,18 @@
-.. Mitum DID documentation master file, created by
-   sphinx-quickstart on Mon Jul 26 15:32:04 2021.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. This work is licensed under a Creative Commons Attribution 4.0 International License.
+.. SPDX-License-Identifier: CC-BY-4.0
 
-Welcome to Mitum DID's documentation!
-=====================================
+
+RIC Measurement Campaign (MC) xApp
+==================================
+
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: Documents:
+
+   overview.rst
+   readme.rst
+   release-notes.rst
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
